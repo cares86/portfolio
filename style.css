@@ -62,7 +62,7 @@ canvas{
   height: auto;
   text-align: center;
   margin-top: 22%;
-  font-size: 400%;
+  font-size: 700%;
   font-style: oblique;
   font-family: 'Open Sans', sans-serif;
 
@@ -74,9 +74,30 @@ canvas{
   position:absolute;
   top:4%;
   left:2%;
+	height:100%;
 
 }
 
 .name p{
   display: inline-block;
+}
+
+.button{
+
+	width: 20%;
+	height: 10%;
+	background-color: rgb(102, 153, 153);
+
+}
+
+.sitebutton{
+
+	color: black;
+	border-color: rgb(102, 153, 153);
+	font-size: 160%;
+
+}
+.sitebutton:hover{
+
+	color: blue;
 }

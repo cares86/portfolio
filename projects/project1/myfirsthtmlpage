@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+    <title> welkom to my tryout page</title>
+    <body>
+        <h1 align="center"><i><span style = "color:pink">Hello,</span></i></h1>
+        <p align="center"> My name is <strong><i><span style="color:blue">Caressa</span></i></strong>, I'am learing about <span style="color:red">HTML</span>. I will try to make a worthy page, for now this is my playground.</p>
+        <hr align="center" width= 100px />
+        <h1><span style ="color:pink"><i>My Skills:</i></span></h1>
+        <!-- deze div is toegevoegd om makkelijk terug om mijn portofolio te komen -->
+        <div class="terug">
+          <a href="/Users/cares86/Desktop/naamloze map 2/templated-hielo/skills.html" class="button">Terug</a>
+        </div>
+        <!-- tot hier -->
+ <ul>
+  <li><span style="color:red">HTML</span></li>
+  <li><span style="color:red">CSS</span></li>
+  <li><span style="color:red">JavaScript</span></li>
+ </ul>
+ <br/>
+ <br/>
+ <br/>
+ <img class="hearts" src="http://vivora.nl/wp-content/uploads/2017/01/hartjes.jpg" alt="vivora.nl" >
+ <br/>
+ <br/>
+ <table border="5" bgcolor=#40E0D0>
+     <tr>
+         <td><br/></td>
+         <td><i>monday</i></td>
+         <td><i>tuesday</i></td>
+         <td><i>wednesday</i></td>
+         <td><i>thursday</i></td>
+         <td><i>friday</i></td>
+         <td><i>saturday</i></td>
+         <td><i>sunday</i></td>
+     </tr>
+     <td>7:00</td>
+     <td colspan="5"><i>wake up</i></td>
+     <td colspan="2"><i>free submission</i></td>
+     </tr>
+     <td>7:30</td>
+     <td colspan="5"><i>breakfast</i></td>
+     <td colspan="2"><i>free submission</i></td>
+     </tr>
+     <td>8:00</td>
+     <td colspan="5"><i>day activities</i></td>
+     <td colspan="2"><i>free submission</i></td>
+     </tr>
+     <td>12:00</td>
+     <td colspan="5"><i>lunch</i></td>
+     <td colspan="2"><i>free submission</i></td>
+     </tr>
+     <td>12:30</td>
+     <td colspan="5"><i>day activities</i></td>
+     <td colspan="2"><i>free submission</i></td>
+     </tr>
+     <td>18:00</td>
+     <td colspan="5"><i>dinner</i></td>
+     <td colspan="2"><i>free submission</i></td>
+     </tr>
+     <td>19:00</td>
+     <td colspan="4"><i>chilling</i></td>
+     <td colspan="3"><i>free submission</i></td>
+     </tr>
+     <td> 23:00</td>
+     <td colspan="4"><i>going to bed</i></td>
+     <td colspan="3"><i>free submission</i></td>
+     </tr>
+
+
+ </table>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <div class="section">
+
+     <iframe width="420" height="315"
+src="https://www.youtube.com/embed/ZkKT3NqW1rw">
+</iframe>
+
+ <h1><span style="color:pink"><i>Contact me:</i></span></h1>
+ <form>
+     <p>name:</p><input name="name" type= "text"/><br/>
+     <p>email:</p><input name="email" type="text"/><br/>
+     <p>message:</p><textarea name="message"></textarea>
+     <input type="submit"value="send" class="submit"/>
+ </form>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+
+        <p align= "center"><small>If you like to learn as well you go to : <a href= http://www.sololearn.com "target"=_blank"> www.sololearn.com </a></small></p>
+        <hr align="center" width= 150px>
+
+        <style>body {
+
+}
+
+.hearts
+{
+    transform: scale(.5);
+}
+.button {
+    background-color: #4b6f6b;
+    border: 5px solid black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 100px;
+    height:25px;
+    border-radius: 10%;
+	}
+		.button:hover {
+    background-color: #799491;
+    color: white;
+	  hover: opacity: 0.7;
+
+}
+
+</style>
+    </body>
+</html>
