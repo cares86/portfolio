@@ -32,7 +32,7 @@
     ],
     "startColor": {
         "hue": 218,
-        "hueVariance": 235,
+        "hueVariance": 135,
         "saturation": 55,
         "saturationVariance": 36,
         "luminance": "100",

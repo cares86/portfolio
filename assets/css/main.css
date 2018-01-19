@@ -4378,7 +4378,40 @@
 		 padding-top:25%;
 	 }
 
+	 .space4{
 
+		 padding-top: 14%;
+	 }
+
+	 .space5{
+		 padding-bottom: 14%;
+	 }
+
+	 .space6{
+
+		 padding-top:32%;
+	 }
+
+	 .space7{
+
+
+		 padding-bottom:32%;
+	 }
+
+	 .space8{
+
+		 margin-top: -9%;
+	 }
+	 .space9{
+
+
+		padding-bottom:20%;
+	}
+
+	.space10{
+
+		padding-top: ;
+	}
 
 
 /*slideshow*/
@@ -4626,3 +4659,18 @@
 		}
 
 		/* einde slideshow */
+
+
+		/*------contactpage style----*/
+
+		.contactp{
+
+text-align: center;
+
+		}
+
+		.contactimg{
+
+margin-top: -8%;
+
+		}

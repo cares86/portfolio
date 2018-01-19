@@ -39,17 +39,17 @@ var pJS = function(tag_id, params){
       },
       opacity: {
         value: 1,
-        random: false,
+        random: true,
         anim: {
           enable: false,
           speed: 2,
-          opacity_min: 0,
+          opacity_min: 0.6,
           sync: false
         }
       },
       size: {
         value: 20,
-        random: false,
+        random: true,
         anim: {
           enable: false,
           speed: 20,

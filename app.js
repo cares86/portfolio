@@ -21,20 +21,20 @@ particlesJS('particles-js',
         }
       },
       "color": {
-        "value": "#4a99a4"
+        "value": "#0f393f"
       },
       "shape": {
         "type": "star",
         "stroke": {
           "width": 2,
-          "color": "#083c43"
+          "color": "#b6d5d8"
         },
         "polygon": {
           "nb_sides": 5
         },
         "image": {
           "src": "img/github.svg",
-          "width": 100,
+          "width": 90,
           "height": 100
         }
       },
@@ -74,7 +74,7 @@ particlesJS('particles-js',
         "out_mode": "out",
         "attract": {
           "enable": false,
-          "rotateX": 600,
+          "rotateX": 800,
           "rotateY": 1200
         }
       }
